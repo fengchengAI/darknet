@@ -1,6 +1,5 @@
 classes= 20
-train  = /home/pjreddie/data/voc/train.txt
+train  = /home/feng/Github/VSCode/C++/darknet_mini/data/train.txt
 valid  = /home/pjreddie/data/voc/2007_test.txt
-names = data/voc.names
-backup = /home/pjreddie/backup/
-
+names = /home/feng/Github/VSCode/C++/darknet_mini/data/voc.names
+backup = /home/feng/Github/CLionProjects/darknet_mini/backup/
